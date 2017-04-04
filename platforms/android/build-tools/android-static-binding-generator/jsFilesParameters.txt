@@ -1,0 +1,1 @@
+/home/desarrollo8/Documentos/Tutorials/Nativescript/Groceries/platforms/android/src/main/assets/app/views/list/list.js

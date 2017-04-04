@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/desarrollo8/Documentos/Tutorials/Nativescript/Groceries/platforms/android/src/androidTest/assets"/><source path="/home/desarrollo8/Documentos/Tutorials/Nativescript/Groceries/platforms/android/build/generated/assets/shaders/androidTest/F0/debug"/></dataSet><dataSet config="F0"><source path="/home/desarrollo8/Documentos/Tutorials/Nativescript/Groceries/platforms/android/src/androidTestF0/assets"/></dataSet></merger>
